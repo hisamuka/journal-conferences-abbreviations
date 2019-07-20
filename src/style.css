@@ -1,0 +1,8 @@
+.list-group-item {
+    border: 0;
+    padding: 0 0.5rem;
+}
+
+.list-group-item h6 {
+    margin-bottom: 0;
+}

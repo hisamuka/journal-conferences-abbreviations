@@ -1,0 +1,1548 @@
+{
+    "Z": [
+        {
+        "title": "Z DEGREE PHYSICS : CARGESE 1990",
+        "abbr": "NATO ADV SCI I B-PHY"
+        },
+        {
+        "title": "Z PHYSICS AT LEP 1, VOL 1",
+        "abbr": "CERN REPORT"
+        },
+        {
+        "title": "Z PHYSICS AT LEP 1, VOL 2",
+        "abbr": "CERN REPORT"
+        },
+        {
+        "title": "Z PHYSICS AT LEP 1, VOL 3",
+        "abbr": "CERN REPORT"
+        },
+        {
+        "title": "Z0 PHYSICS",
+        "abbr": "MORIOND PAR"
+        },
+        {
+        "title": "ZAMM-ZEITSCHRIFT FUR ANGEWANDTE MATHEMATIK UND MECHANIK",
+        "abbr": "ZAMM-Z ANGEW MATH ME"
+        },
+        {
+        "title": "ZAVODSKAYA LABORATORIYA",
+        "abbr": "IND LAB-USSR+"
+        },
+        {
+        "title": "ZB 2003: FORMAL SPECIFICATION AND DEVELOPMENT IN Z AND B",
+        "abbr": "LECT NOTES COMPUT SC"
+        },
+        {
+        "title": "ZB 2005: FORMAL SPECIFICATION AND DEVELOPMENT  IN Z AND B, PROCEEDINGS",
+        "abbr": "LECT NOTES COMPUT SC"
+        },
+        {
+        "title": "ZBORNIK RADOVA EKONOMSKOG FAKULTETA U RIJECI-PROCEEDINGS OF RIJEKA FACULTY OF ECONOMICS",
+        "abbr": "ZB RAD EKON FAK RIJE"
+        },
+        {
+        "title": "ZDRAVNISKI VESTNIK, YEAR 62, SEPTEMBER 1993, SUPPL 1",
+        "abbr": ""
+        },
+        {
+        "title": "ZDRAVNISKI VESTNIK-SLOVENIAN MEDICAL JOURNAL",
+        "abbr": "ZDR VESTN"
+        },
+        {
+        "title": "ZDRAVSTVENI VESTNIK",
+        "abbr": "ZDRAV VESTN"
+        },
+        {
+        "title": "ZDRAVSTVENO VARSTVO",
+        "abbr": "ZDRAV VARST"
+        },
+        {
+        "title": "ZEBRA MUSSEL DREISSENA POLYMORPHA",
+        "abbr": "LIMNOL AKTUELL"
+        },
+        {
+        "title": "ZEBRA MUSSELS AND AQUATIC NUISANCE SPECIES",
+        "abbr": ""
+        },
+        {
+        "title": "ZEBRAFISH",
+        "abbr": "ZEBRAFISH"
+        },
+        {
+        "title": "ZEBRAFISH: 2ND EDITION CELLULAR AND DEVELOPMENTAL BIOLOGY",
+        "abbr": "METHOD CELL BIOL"
+        },
+        {
+        "title": "ZEBRAFISH: CELLULAR AND DEVELOPMENTAL BIOLOGY, PT A, THIRD EDITION",
+        "abbr": "METHOD CELL BIOL"
+        },
+        {
+        "title": "ZEBRAFISH: CELLULAR AND DEVELOPMENTAL BIOLOGY, PT A: CELLULAR BIOLOGY, 4TH EDITION",
+        "abbr": "METHOD CELL BIOL"
+        },
+        {
+        "title": "ZEBRAFISH: CELLULAR AND DEVELOPMENTAL BIOLOGY, PT B, THIRD EDITION",
+        "abbr": "METHOD CELL BIOL"
+        },
+        {
+        "title": "ZEBRAFISH: CELLULAR AND DEVELOPMENTAL BIOLOGY, PT B: DEVELOPMENTAL BIOLOGY",
+        "abbr": "METHOD CELL BIOL"
+        },
+        {
+        "title": "ZEBRAFISH: DISEASE MODELS AND CHEMICAL SCREENS, 3RD EDITION",
+        "abbr": "METHOD CELL BIOL"
+        },
+        {
+        "title": "ZEBRAFISH: GENETICS, GENOMICS AND INFORMATICS, 3RD EDITION",
+        "abbr": "METHOD CELL BIOL"
+        },
+        {
+        "title": "ZEBRAFISH: GENETICS, GENOMICS, AND TRANSCRIPTOMICS, 4TH EDITION",
+        "abbr": "METHOD CELL BIOL"
+        },
+        {
+        "title": "ZEBRAFISH:2ND EDITION GENETICS GENOMICS AND INFORMATICS",
+        "abbr": "METHOD CELL BIOL"
+        },
+        {
+        "title": "ZEGER-BERNARD VAN ESPEN AT THE CROSSROADS OF CANON LAW, HISTORY, THEOLOGY AND CHURCH-STATE RELATIONS",
+        "abbr": "BIB EPH THE"
+        },
+        {
+        "title": "ZEI STUDIES IN EUROPEAN ECONOMICS AND LAW",
+        "abbr": "ZEI STUD EU ECON LAW"
+        },
+        {
+        "title": "ZEITGESCHICHTE",
+        "abbr": "ZEITGESCHICHTE"
+        },
+        {
+        "title": "ZEITSCHRIFT DER DEUTSCHEN GESELLSCHAFT FUR GEOWISSENSCHAFTEN",
+        "abbr": "Z DTSCH GES GEOWISS"
+        },
+        {
+        "title": "ZEITSCHRIFT DER DEUTSCHEN MORGENLANDISCHEN GESELLSCHAFT",
+        "abbr": "Z DEUT MORGENLAND G"
+        },
+        {
+        "title": "ZEITSCHRIFT DES DEUTSCHEN PALASTINA-VEREINS",
+        "abbr": "Z DEUT PALASTINA-VER"
+        },
+        {
+        "title": "ZEITSCHRIFT DES DEUTSCHEN VEREINS FUR KUNSTWISSENSCHAFT",
+        "abbr": "Z DEUT VER KUNSTWISS"
+        },
+        {
+        "title": "ZEITSCHRIFT DES VEREINES DEUTSCHER INGENIEURE",
+        "abbr": "Z VER DTSCH ING"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR ACKER UND PFLANZENBAU-JOURNAL OF AGRONOMY AND CROP SCIENCE",
+        "abbr": "Z ACKER PFLANZENBAU"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR AGYPTISCHE SPRACHE UND ALTERTUMSKUNDE",
+        "abbr": "Z AGYPT SPRACHE ALT"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR ALLGEMEINE MIKROBIOLOGIE",
+        "abbr": "Z ALLG MIKROBIOL"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR ANALYSIS UND IHRE ANWENDUNGEN",
+        "abbr": "Z ANAL ANWEND"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR ANALYTISCHE CHEMIE FRESENIUS",
+        "abbr": "Z ANAL CHEM FRESENIU"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR ANATOMIE UND ENTWICKLUNGSGESCHICHTE",
+        "abbr": "Z ANAT ENTWICKLUNGS"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR ANGEWANDTE ENTOMOLOGIE-JOURNAL OF APPLIED ENTOMOLOGY",
+        "abbr": "Z ANGEW ENTOMOL"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR ANGEWANDTE GEOLOGIE",
+        "abbr": "Z ANGEW GEOL"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR ANGEWANDTE MATHEMATIK UND MECHANIK",
+        "abbr": "Z ANGEW MATH MECH"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR ANGEWANDTE MATHEMATIK UND MECHANIK - APPLIED MATHEMATICS AND MECHANICS, VOL 75, SUPPLEMENT 1, 1995",
+        "abbr": ""
+        },
+        {
+        "title": "ZEITSCHRIFT FUR ANGEWANDTE MATHEMATIK UND PHYSIK",
+        "abbr": "Z ANGEW MATH PHYS"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR ANGEWANDTE PHYSIK",
+        "abbr": "Z ANGEW PHYSIK"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR ANGLISTIK UND AMERIKANISTIK",
+        "abbr": "Z ANGLIST AM"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR ANORGANISCHE CHEMIE",
+        "abbr": "Z ANORG CHEM"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR ANORGANISCHE UND ALLGEMEINE CHEMIE",
+        "abbr": "Z ANORG ALLG CHEM"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR ANTIKES CHRISTENTUM-JOURNAL OF ANCIENT CHRISTIANITY",
+        "abbr": "Z ANTIKES CHRIST-J A"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR ARBEITS-UND ORGANISATIONSPSYCHOLOGIE",
+        "abbr": "Z ARB ORGAN"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR ARCHAOLOGIE",
+        "abbr": "Z ARCHAOL"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR ARZNEI- &amp; GEWURZPFLANZEN",
+        "abbr": "Z ARZNEI- GEWURZPFLA"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR ASSYRIOLOGIE UND VORDERASIATISCHE ARCHAOLOGIE",
+        "abbr": "Z ASSYRIOL VORDERASI"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR ASTHETIK UND ALLGEMEINE KUNSTWISSENSCHAFT",
+        "abbr": "Z ASTHET ALLG KUNSTW"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR ASTROPHYSIK",
+        "abbr": "Z ASTROPHYS"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR BETRIEBSWIRTSCHAFT",
+        "abbr": "Z BETRIEBSWIRT"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR BIBLIOTHEKSWESEN UND BIBLIOGRAPHIE",
+        "abbr": "Z BIBL BIBL"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR BIOLOGIE",
+        "abbr": "Z BIOL-MUNICH"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR CELTISCHE PHILOLOGIE",
+        "abbr": "Z CELT PHILOL"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR CHEMIE",
+        "abbr": "Z CHEM"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR DEUTSCHE PHILOLOGIE",
+        "abbr": "Z DEUT PHILOL"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR DEUTSCHES ALTERTUM UND DEUTSCHE LITERATUR",
+        "abbr": "Z DEUT ALTERTUM DEUT"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR DIALEKTOLOGIE UND LINGUISTIK",
+        "abbr": "Z DIALEKTOL LINGUIST"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR DIE ALTTESTAMENTLICHE WISSENSCHAFT",
+        "abbr": "Z ALTTESTAMENT WISS"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR DIE GESAMTE EXPERIMENTELLE MEDIZIN",
+        "abbr": "Z GESAMTE EXP MED"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR DIE GESAMTE EXPERIMENTELLE MEDIZIN EINSCHLIESSLICH EXPERIMENTELLER CHIRURGIE",
+        "abbr": "Z GES EXP MED"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR DIE GESAMTE NEUROLOGIE UND PSYCHIATRIE",
+        "abbr": "Z GESAMTE NEUROL PSY"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR DIE NEUTESTAMENTLICHE WISSENSCHAFT UND DIE KUNDE DER ALTEREN KIRCHE",
+        "abbr": "Z NEUTESTAMENT WISS"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR DIE ZUCKERINDUSTRIE",
+        "abbr": "Z ZUCKERIND"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR ELEKTROCHEMIE",
+        "abbr": "Z ELEKTROCHEM"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR ELEKTROCHEMIE UND ANGEWANDTE PHYSIKALISCHE CHEMIE",
+        "abbr": "Z ELKTROCHEM ANGEW P"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR ENTWICKLUNGSPSYCHOLOGIE UND PADAGOGISCHE PSYCHOLOGIE",
+        "abbr": "Z ENTWICKL PADAGOGIS"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR ERNAHRUNGSWISSENSCHAFT",
+        "abbr": "Z ERNAHRUNGSWISS"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR ERZIEHUNGSWISSENSCHAFT",
+        "abbr": "Z ERZIEHWISS"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR ETHNOLOGIE",
+        "abbr": "Z ETHNOL"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR EVALUATION",
+        "abbr": "Z EVAL"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR EVANGELISCHE ETHIK",
+        "abbr": "Z EVANGEL ETHIK"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR EXPERIMENTELLE PSYCHOLOGIE",
+        "abbr": "Z EXP PSYCHOL"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR EXPERIMENTELLE UND ANGEWANDTE PSYCHOLOGIE",
+        "abbr": "Z EXP ANGEW PSYCHOL"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR FAMILIENFORSCHUNG",
+        "abbr": "Z FAM"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR FAMILIENFORSCHUNG",
+        "abbr": "Z FAMILIENFORSCH"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR FLUGWISSENSCHAFTEN",
+        "abbr": "Z FLUGWISSENSCH"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR FLUGWISSENSCHAFTEN UND WELTRAUMFORSCHUNG",
+        "abbr": "Z FLUGWISS WELTRAUM"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR FRANZOSISCHE SPRACHE UND LITERATUR",
+        "abbr": "Z FR SPRACHE LIT"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR GASTROENTEROLOGIE",
+        "abbr": "Z GASTROENTEROL"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR GEBURTSHILFE UND NEONATOLOGIE",
+        "abbr": "Z GEBURTSH NEONATOL"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR GEBURTSHILFE UND PERINATOLOGIE",
+        "abbr": "Z GEBURTSH PERINATOL"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR GEOLOGISCHE WISSENSCHAFTEN",
+        "abbr": "Z GEOL WISSENSCHAFT"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR GEOMORPHOLOGIE",
+        "abbr": "Z GEOMORPHOL"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR GEOMORPHOLOGIE SUPPLEMENT SERIES",
+        "abbr": "Z GEOMORPHOL SUPP"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR GERMANISTIK",
+        "abbr": "Z GERMANISTIK"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR GERMANISTISCHE LINGUISTIK",
+        "abbr": "Z GER LINGUISTIK"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR GERONTOLOGIE",
+        "abbr": "Z GERONTOL"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR GERONTOLOGIE UND GERIATRIE",
+        "abbr": "Z GERONTOL GERIATR"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR GESCHICHTSWISSENSCHAFT",
+        "abbr": "Z GESCHICHTSWISS"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR GESUNDHEITSPSYCHOLOGIE",
+        "abbr": "Z GESUNDH"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR GESUNDHEITSPSYCHOLOGIE",
+        "abbr": "Z GESUNDHEITSPSYCHOL"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR HAUTKRANKHEITEN H&amp;G",
+        "abbr": "Z HAUTKRANKHEITEN"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR HERZ-, THORAX- UND GEFASSCHIRURGIE, VOL 3, SUPPL 1, 1989",
+        "abbr": ""
+        },
+        {
+        "title": "ZEITSCHRIFT FUR HISTORISCHE FORSCHUNG",
+        "abbr": "Z HIST FORSCH"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR HYGIENE UND INFEKTIONSKRANKHEITEN",
+        "abbr": "Z HYG INFEKTIONSKR"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR IMMUNITATS-FORSCHUNG ALLERGIE UND KLINISCHE IMMUNOLOGIE",
+        "abbr": "Z IMMUNITATSFORSCH"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR IMMUNITATS-FORSCHUNG EXPERIMENTELLE UND KLINISCHE IMMUNOLOGIE",
+        "abbr": "Z IMMUNITATSFORSCH"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR IMMUNITATS-UND ALLERGIEFORSCHUNG",
+        "abbr": "Z IMMUN-UND ALLERG"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR IMMUNITATSFORSCHUNG UND EXPERIMENTELLE THERAPIE",
+        "abbr": "Z IMMUNITATSFORSCH"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR IMMUNITATSFORSCHUNG-IMMUNOBIOLOGY",
+        "abbr": "Z IMMUNITATSFORSCH"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR INDUKTIVE ABSTAMMUNGS UND VERERBUNGSLEHRE",
+        "abbr": "Z INDUKT ABSTAMM VER"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR INSTRUMENTENKUNDE",
+        "abbr": "Z INSTRUMENTENKD"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR JAGDWISSENSCHAFT",
+        "abbr": "Z JAGDWISS"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR KARDIOLOGIE",
+        "abbr": "Z KARDIOL"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR KATALANISTIK",
+        "abbr": "Z KATALAN"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR KINDER-UND JUGENDPSYCHIATRIE",
+        "abbr": "Z KINDER JUG-PSYCH"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR KINDER-UND JUGENDPSYCHIATRIE UND PSYCHOTHERAPIE",
+        "abbr": "Z KINDER JUG-PSYCH"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR KINDERCHIRURGIE UND GRENZGEBIETE",
+        "abbr": "Z KINDERCHIR"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR KINDERCHIRURGIE-SURGERY IN INFANCY AND CHILDHOOD",
+        "abbr": "Z KINDERCHIR"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR KINDERHEILKUNDE",
+        "abbr": "Z KINDERHEILKD"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR KIRCHENGESCHICHTE",
+        "abbr": "Z KIRCHENGESCH"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR KLINISCHE CHEMIE UND KLINISCHE BIOCHEMIE",
+        "abbr": "Z KLIN CHEM KLIN BIO"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR KLINISCHE MEDIZIN",
+        "abbr": "Z KLIN MED"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR KLINISCHE MEDIZIN-ZKM",
+        "abbr": "Z KLIN MED"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR KLINISCHE PSYCHOLOGIE PSYCHIATRIE UND PSYCHOTHERAPIE",
+        "abbr": "Z KLIN PSYCH PSYCHIA"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR KLINISCHE PSYCHOLOGIE PSYCHIATRIE UND PSYCHOTHERAPIE",
+        "abbr": "Z KLIN PSYCHOL PSYCH"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR KLINISCHE PSYCHOLOGIE PSYCHOPATHOLOGIE UND PSYCHOTHERAPIE",
+        "abbr": "Z KLIN PSYCHOL PSYCH"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR KLINISCHE PSYCHOLOGIE UND PSYCHOTHERAPIE",
+        "abbr": "Z KL PSYCH PSYCHOTH"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR KLINISCHE PSYCHOLOGIE-FORSCHUNG UND PRAXIS",
+        "abbr": "Z KLIN PSYCHOL-FORSC"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR KREBSFORSCHUNG",
+        "abbr": "Z KREBSFORSCH KLIN O"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR KREBSFORSCHUNG UND KLINISCHE ONKOLOGIE",
+        "abbr": "Z KREBSFORSCH KLIN O"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR KREISLAUFFORSCHUNG",
+        "abbr": "Z KREISLAUFFORSCH"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR KRISTALLOGRAPHIE",
+        "abbr": "Z KRISTALLOGR"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR KRISTALLOGRAPHIE KRISTALLGEOMETRIE KRISTALLPHYSIK KRISTALLCHEMIE",
+        "abbr": "Z KRISTALLOGR KRIST"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR KRISTALLOGRAPHIE-CRYSTALLINE MATERIALS",
+        "abbr": "Z KRIST-CRYST MATER"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR KRISTALLOGRAPHIE-NEW CRYSTAL STRUCTURES",
+        "abbr": "Z KRIST-NEW CRYST ST"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR KRYSTALLOGRAPHIE UND MINERALOGIE",
+        "abbr": "Z KRYSTALLOGR MINERA"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR KULTURTECHNIK UND FLURBEREINIGUNG",
+        "abbr": "Z KULTURTECH FLURBER"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR KUNSTGESCHICHTE",
+        "abbr": "Z KUNSTGESCHICHTE"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR LARYNGOLOGIE RHINOLOGIE OTOLOGIE UND IHRE GRENZGEBIETE",
+        "abbr": "Z LARYNGOL RHINO"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR LEBENSMITTEL-UNTERSUCHUNG UND-FORSCHUNG",
+        "abbr": "Z LEBENSM UNTERS FOR"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR LEBENSMITTEL-UNTERSUCHUNG UND-FORSCHUNG A-FOOD RESEARCH AND TECHNOLOGY",
+        "abbr": "Z LEBENSM UNTERS F A"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR LYMPHOLOGIE-JOURNAL OF LYMPHOLOGY",
+        "abbr": "Z LYMPHOL-J LYMPHOL"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR MATHEMATISCHE LOGIK UND GRUNDLAGEN DER MATHEMATIK",
+        "abbr": "Z MATH LOGIK"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR MEDIZINISCHE PHYSIK",
+        "abbr": "Z MED PHYS"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR MENSCHLICHE VERERBUNGS-UND KONSTITUTIONSLEHRE",
+        "abbr": "Z MENSCH VERERB KONS"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR METALLKUNDE",
+        "abbr": "Z METALLKD"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR METEOROLOGIE",
+        "abbr": "Z METEOROL"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR MIKROSKOPISCH-ANATOMISCHE FORSCHUNG",
+        "abbr": "Z MIKROSK ANAT FORSC"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR MORPHOLOGIE DER TIERE",
+        "abbr": "Z MORPHOL TIERE"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR MORPHOLOGIE UND ANTHROPOLOGIE",
+        "abbr": "Z MORPHOL ANTHROPOL"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR NATIONALOKONOMIE",
+        "abbr": "Z NATIONALOKON"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR NATIONALOKONOMIE-JOURNAL OF ECONOMICS",
+        "abbr": "Z NATIONALOKONOMIE"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR NATURFORSCHUNG",
+        "abbr": "Z NATURFORSCH"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR NATURFORSCHUNG C-A JOURNAL OF BIOSCIENCES",
+        "abbr": "Z NATURFORSCH C"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR NATURFORSCHUNG PART A-ASTROPHYSIK PHYSIK UND PHYSIKALISCHE CHEMIE",
+        "abbr": "Z NATURFORSCH PT A"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR NATURFORSCHUNG PART B-CHEMIE BIOCHEMIE BIOPHYSIK BIOLOGIE UND VERWANDTEN GEBIETE",
+        "abbr": "Z NATURFORSCH PT B"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR NATURFORSCHUNG SECTION A-A JOURNAL OF PHYSICAL SCIENCES",
+        "abbr": "Z NATURFORSCH A"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR NATURFORSCHUNG SECTION B-A JOURNAL OF CHEMICAL SCIENCES",
+        "abbr": "Z NATURFORSCH B"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR NATURFORSCHUNG SECTION C-A JOURNAL OF BIOSCIENCES",
+        "abbr": "Z NATURFORSCH C"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR NATURWISSENSCHAFTLICH-MEDIZINISCHE GRUNDLAGENFORSCHUNG",
+        "abbr": "Z NAT WISS-MED GRUND"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR NEUROLOGIE",
+        "abbr": "Z NEUROL"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR NEUROPSYCHOLOGIE",
+        "abbr": "Z NEUROPSYCHOL"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR ORTHOPADIE UND IHRE GRENZGEBIETE",
+        "abbr": "Z ORTHOP GRENZGEB"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR ORTHOPADIE UND UNFALLCHIRURGIE",
+        "abbr": "Z ORTHOP UNFALLCHIR"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR PADAGOGIK",
+        "abbr": "Z PADAGOGIK"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR PADAGOGISCHE PSYCHOLOGIE",
+        "abbr": "Z PADAGOG PSYCHOL"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR PARAPSYCHOLOGIE UND GRENZGEBIETE DER PSYCHOLOGIE",
+        "abbr": "Z PARAPSYCHOL GR PSY"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR PARASITENKUNDE",
+        "abbr": "Z PARASITENK"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR PARASITENKUNDE-PARASITOLOGY RESEARCH",
+        "abbr": "PARASITOL RES"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR PARASITENKUNDE-PARASITOLOGY RESEARCH",
+        "abbr": "Z PARASITENKD"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR PERSONALFORSCHUNG",
+        "abbr": "Z PERSONALFORSCH"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR PERSONALPSYCHOLOGIE",
+        "abbr": "Z PERSONALPSYCHOL"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR PFLANZENERNAHRUNG UND BODENKUNDE",
+        "abbr": "Z PFLANZ BODENKUNDE"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR PFLANZENKRANKHEITEN UND PFLANZENSCHUTZ-JOURNAL OF PLANT DISEASES AND PROTECTION",
+        "abbr": "Z PFLANZENK PFLANZEN"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR PFLANZENPHYSIOLOGIE",
+        "abbr": "Z PFLANZENPHYSIOL"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR PFLANZENZUCHTUNG",
+        "abbr": "Z PFLANZENZUCHTUNG"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR PFLANZENZUCHTUNG-JOURNAL OF PLANT BREEDING",
+        "abbr": "Z PFLANZENZUCHT"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR PHILOSOPHISCHE FORSCHUNG",
+        "abbr": "Z PHILOS FORSCH"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR PHYSIK",
+        "abbr": "Z PHYS"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR PHYSIK A-HADRONS AND NUCLEI",
+        "abbr": "Z PHYS A-HADRON NUCL"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR PHYSIK B-CONDENSED MATTER",
+        "abbr": "Z PHYS B CON MAT"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR PHYSIK C-PARTICLES AND FIELDS",
+        "abbr": "Z PHYS C PART FIELDS"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR PHYSIK D-ATOMS MOLECULES AND CLUSTERS",
+        "abbr": "Z PHYS D ATOM MOL CL"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR PHYSIKALISCHE CHEMIE NEUE FOLGE",
+        "abbr": "Z PHYS CHEM NEUE FOL"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR PHYSIKALISCHE CHEMIE--STOCHIOMETRIE UND VERWANDTSCHAFTSLEHRE",
+        "abbr": "Z PHYS CHEM-STOCH VE"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR PHYSIKALISCHE CHEMIE-ABTEILUNG A-CHEMISCHE THERMODYNAMIK KINETIK ELEKTROCHEMIE EIGENSCHAFTSLEHRE",
+        "abbr": "Z PHYS CHEM A-CHEM T"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR PHYSIKALISCHE CHEMIE-ABTEILUNG B-CHEMIE DER ELEMENTARPROZESSE AUFBAU DER MATERIE",
+        "abbr": "Z PHYS CHEM B-CHEM E"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR PHYSIKALISCHE CHEMIE-FRANKFURT",
+        "abbr": "Z PHYS CHEM NEUE FOL"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR PHYSIKALISCHE CHEMIE-INTERNATIONAL JOURNAL OF RESEARCH IN PHYSICAL CHEMISTRY &amp; CHEMICAL PHYSICS",
+        "abbr": "Z PHYS CHEM"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR PHYSIKALISCHE CHEMIE-LEIPZIG",
+        "abbr": "Z PHYS CHEM-LEIPZIG"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR PHYSIKALISCHE CHEMIE-STOCHIOMETRIE UND VERWANDTSCHAFTSLEHRE",
+        "abbr": "Z PHYS CHEM-STOCH VE"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR PHYSIKALISCHE CHEMIE-WIESBADEN",
+        "abbr": "Z PHYS CHEM NEUE FOL"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR POLITIK",
+        "abbr": "Z POLIT"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR PRAKTISCHE ANASTHESIE",
+        "abbr": "Z PRAKT ANAST"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR PSYCHIATRIE PSYCHOLOGIE UND PSYCHOTHERAPIE",
+        "abbr": "Z PSYCHIATR PSYCH PS"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR PSYCHOLOGIE",
+        "abbr": "Z PSYCHOL"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR PSYCHOLOGIE",
+        "abbr": "Z PSYCHOLOGIE"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR PSYCHOLOGIE UND PHYSIOLOGIE DER SINNESORGANE",
+        "abbr": "Z PSYCHOL PHYSIOL SI"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR PSYCHOLOGIE-JOURNAL OF PSYCHOLOGY",
+        "abbr": "Z PSYCHOL"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR PSYCHOSOMATISCHE MEDIZIN UND PSYCHOANALYSE",
+        "abbr": "Z PSYCHOSOM MED PSYC"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR PSYCHOSOMATISCHE MEDIZIN UND PSYCHOTHERAPIE",
+        "abbr": "Z PSYCHOSOM MED PSYC"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR PSYCHOTHERAPIE UND MEDIZINISCHE PSYCHOLOGIE",
+        "abbr": "Z PSYCHOTHER MED PSY"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR RECHTSMEDIZIN-JOURNAL OF LEGAL MEDICINE",
+        "abbr": "Z RECHTSMED"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR RELIGIONS-UND GEISTESGESCHICHTE",
+        "abbr": "Z RELIG GEISTESGESCH"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR RHEUMAFORSCHUNG",
+        "abbr": "Z RHEUMAFORSCH"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR RHEUMATOLOGIE",
+        "abbr": "Z RHEUMATOL"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR ROMANISCHE PHILOLOGIE",
+        "abbr": "Z ROMAN PHILOL"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR SAUGETIERKUNDE-INTERNATIONAL JOURNAL OF MAMMALIAN BIOLOGY",
+        "abbr": "Z SAUGETIERKD"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR SEMIOTIK",
+        "abbr": "Z SEMIOTIK"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR SEXUALFORSCHUNG",
+        "abbr": "Z SEXUALFORSCH"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR SLAVISCHE PHILOLOGIE",
+        "abbr": "Z SLAV PHILOL"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR SLAWISTIK",
+        "abbr": "Z SLAWISTIK"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR SOZIALPSYCHOLOGIE",
+        "abbr": "Z SOZIALPSYCHOL"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR SOZIOLOGIE",
+        "abbr": "Z SOZIOL"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR SOZIOLOGIE DER ERZIEHUNG UND SOZIALISATION",
+        "abbr": "Z SOZIOL ERZIEH SOZI"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR SPORTPSYCHOLOGIE",
+        "abbr": "Z SPORTPSYCHOL"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR SPRACHWISSENSCHAFT",
+        "abbr": "Z SPRACHWISS"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR THEOLOGIE UND KIRCHE",
+        "abbr": "Z THEOL KIRCHE"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR TIERPHYSIOLOGIE TIERERNAHRUNG UND FUTTERMITTELKUNDE-JOURNAL OF ANIMAL PHYSIOLOGY AND ANIMAL NUTRITION",
+        "abbr": "Z TIERPHYSIOL TIERER"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR TIERPSYCHOLOGIE-JOURNAL OF COMPARATIVE ETHOLOGY",
+        "abbr": "Z TIERPSYCHOL"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR TIERZUCHTUNG UND ZUCHTUNGSBIOLOGIE-JOURNAL OF ANIMAL BREEDING AND GENETICS",
+        "abbr": "Z TIERZ ZUCHTUNGSBIO"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR TROPENMEDIZIN UND PARASITOLOGIE",
+        "abbr": "Z TROPENMED PARASIT"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR UROLOGIE UND NEPHROLOGIE",
+        "abbr": "Z UROL NEPHROL"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR VERERBUNGSLEHRE",
+        "abbr": "Z VEREBUNGSL"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR VERGLEICHENDE PHYSIOLOGIE",
+        "abbr": "Z VERGL PHYSIOL"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR VERSUCHSTIERKUNDE",
+        "abbr": "Z VERSUCHSTIERKD"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR VOLKSKUNDE",
+        "abbr": "Z VOLKSKUNDE"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR WAHRSCHEINLICHKEITSTHEORIE UND VERWANDTE GEBIETE",
+        "abbr": "Z WAHRSCHEINLICHKEIT"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR WASSER UND ABWASSER FORSCHUNG-JOURNAL FOR WATER AND WASTEWATER RESEARCH",
+        "abbr": "Z WASSER ABWASS FOR"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR WASSER- UND ABWASSER-FORSCHUNG-JOURNAL FOR WATER AND WASTEWATER RESEARCH-ACTA HYDROCHIMICA ET HYDROBIOLOGICA",
+        "abbr": "Z WASSER-ACTA HYDROC"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR WERKSTOFFTECHNIK-MATERIALS TECHNOLOGY AND TESTING",
+        "abbr": "Z WERKSTOFFTECH"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR WIRTSCHAFTS-UND SOZIALWISSENSCHAFTEN",
+        "abbr": "Z WIRT SOZ"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR WIRTSCHAFTSGEOGRAPHIE",
+        "abbr": "Z WIRTSCH"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR WIRTSCHAFTSGEOGRAPHIE",
+        "abbr": "Z WIRTSCHAFTSGEOGR"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR WISSENSCHAFTLICHE MIKROSKOPIE UND FUR MIKROSKOPISCHE TECHNIK",
+        "abbr": "Z WISS MIKROSK"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR WISSENSCHAFTLICHE PHOTOGRAPHIE PHOTOPHYSIK PHOTOCHEMIE",
+        "abbr": "Z WISS PHOTOGR PHOTO"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR WISSENSCHAFTLICHE ZOOLOGIE",
+        "abbr": "Z WISS ZOOL ABT A"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR ZELLFORSCHUNG UND MIKROSKOPISCHE ANATOMIE",
+        "abbr": "Z ZELLFORSCH MIK ANA"
+        },
+        {
+        "title": "ZEITSCHRIFT FUR ZOOLOGISCHE SYSTEMATIK UND EVOLUTIONSFORSCHUNG",
+        "abbr": "Z ZOOL SYST EVOL"
+        },
+        {
+        "title": "ZEITSCHRIFT PERSONALPSYCHOLOGIE",
+        "abbr": "Z PERSONALPSYCHOL"
+        },
+        {
+        "title": "ZELLSTOFF UND PAPIER",
+        "abbr": "ZELLST PAP"
+        },
+        {
+        "title": "ZEMDIRBYSTE-AGRICULTURE",
+        "abbr": "ZEMDIRBYSTE"
+        },
+        {
+        "title": "ZEMENT-KALK-GIPS",
+        "abbr": "ZEM-KALK-GIPS"
+        },
+        {
+        "title": "ZEMENT-KALK-GIPS",
+        "abbr": "ZKG INT"
+        },
+        {
+        "title": "ZENTRALBLATT FUR BAKTERIOLOGIE : SUPPLEMENT",
+        "abbr": "ZBL BAKT S"
+        },
+        {
+        "title": "ZENTRALBLATT FUR BAKTERIOLOGIE MIKROBIOLOGIE UND HYGIENE I ABTEILUNG ORIGINALE C-ALLGEMEINE ANGEWANDTE UND OKOLOGISCHE MIKROBIOLOGIE",
+        "abbr": "ZBL BAKT MIK HYG I C"
+        },
+        {
+        "title": "ZENTRALBLATT FUR BAKTERIOLOGIE MIKROBIOLOGIE UND HYGIENE SERIE B-UMWELTHYGIENE KRANKENHAUSHYGIENE ARBEITSHYGIENE PRAVENTIVE MEDIZIN",
+        "abbr": "ZBL BAKT MIK HYG B"
+        },
+        {
+        "title": "ZENTRALBLATT FUR BAKTERIOLOGIE MIKROBIOLOGIE UND HYGIENE SERIE B-UMWELTHYGIENE KRANKENHAUSHYGIENE ARBEITSHYGIENE PRAVENTIVE MEDIZIN",
+        "abbr": "ZBL HYG UMWELTMED"
+        },
+        {
+        "title": "ZENTRALBLATT FUR BAKTERIOLOGIE MIKROBIOLOGIE UND HYGIENE SERIES A-MEDICAL MICROBIOLOGY INFECTIOUS DISEASES VIROLOGY PARASITOLOGY",
+        "abbr": "ZBL BAKT-INT J MED M"
+        },
+        {
+        "title": "ZENTRALBLATT FUR BAKTERIOLOGIE PARASITENKUNDE INFEKTIONS-KRANKHEITEN UND HYGIENE ERSTE ABTEILUNG ORGINALE RIEHE A-MEDIZINISCHE MIKROBIOLOGIE UND PARASITOLOGIE",
+        "abbr": "ZENTRALBL BAKT P INF"
+        },
+        {
+        "title": "ZENTRALBLATT FUR BAKTERIOLOGIE PARASITENKUNDE INFEKTIONS-KRANKHEITEN UND HYGIENE ERSTE ABTEILUNG ORIGINALE RIEHE B",
+        "abbr": "ZENTRALBL BAKTER PAR"
+        },
+        {
+        "title": "ZENTRALBLATT FUR BAKTERIOLOGIE PARASITENKUNDE INFEKTIONSKRANHEITEN UND HYGIENE ABTEILUNG 1-ORIGINALE MEDIZINISCH HYGIENSCHE BAKTERIOLOGIE VIRUSFORSCHUNG UND PARASITOLOGIE",
+        "abbr": "ZENTBL BAKTERIOLOG P"
+        },
+        {
+        "title": "ZENTRALBLATT FUR BAKTERIOLOGIE PARASITENKUNDE INFEKTIONSKRANKHEITEN UND HYGIENE ABTEILUNG 1",
+        "abbr": "ZBL BAKT PARASIT"
+        },
+        {
+        "title": "ZENTRALBLATT FUR BAKTERIOLOGIE PARASITENKUNDE INFEKTIONSKRANKHEITEN UND HYGIENE II ABTEILUNG-NATURWISSENSCHAFTLICHE-MIKROBIOLOGIE DER LANDWIRTSCHAFT DER TECHNOLOGIE",
+        "abbr": "ZBL BAKT II NATUR"
+        },
+        {
+        "title": "ZENTRALBLATT FUR BAKTERIOLOGIE, MIKROBIOLOGIE UND HYGIENE, 1 ABTEILUNG, SUPPLEMENTE",
+        "abbr": "ZBL BAKT P"
+        },
+        {
+        "title": "ZENTRALBLATT FUR BAKTERIOLOGIE-INTERNATIONAL JOURNAL OF MEDICAL MICROBIOLOGY VIROLOGY PARASITOLOGY AND INFECTIOUS DISEASES",
+        "abbr": "ZBL BAKT-INT J MED M"
+        },
+        {
+        "title": "ZENTRALBLATT FUR BIBLIOTHEKSWESEN",
+        "abbr": "ZBL BIBLIOTHEKSWESEN"
+        },
+        {
+        "title": "ZENTRALBLATT FUR CHIRURGIE",
+        "abbr": "ZBL CHIR"
+        },
+        {
+        "title": "ZENTRALBLATT FUR GEOLOGIE UND PALAONTOLOGIE, TEIL 1 : ALLGEMEINE, ANGEWANDTE, REGIONALE UND HISTORISCHE GEOLOGIE",
+        "abbr": "ZBL GEO PAL"
+        },
+        {
+        "title": "ZENTRALBLATT FUR GEOLOGIE UND PALAONTOLOGIE, TEIL 1 : ALLGEMEINE, ANGEWANDTE, REGIONALE UND HISTORISCHE GEOLOGIE, HEFT 5/6",
+        "abbr": ""
+        },
+        {
+        "title": "ZENTRALBLATT FUR GEOLOGIE UND PALAONTOLOGIE, TEIL I: ALLGEMEINE, ANGEWANDTE, REGIONALE UND HISTORISCHE GEOLOGIE, 1993, HEFT 1/2",
+        "abbr": "ZBL GEO PAL"
+        },
+        {
+        "title": "ZENTRALBLATT FUR GYNAKOLOGIE",
+        "abbr": "ZBL GYNAKOL"
+        },
+        {
+        "title": "ZENTRALBLATT FUR HYGIENE UND UMWELTMEDIZIN",
+        "abbr": "ZBL HYG UMWELTMED"
+        },
+        {
+        "title": "ZENTRALBLATT FUR MIKROBIOLOGIE",
+        "abbr": "ZBL MIKROBIOL"
+        },
+        {
+        "title": "ZENTRALBLATT FUR NEUROCHIRURGIE",
+        "abbr": "ZBL NEUROCHIR"
+        },
+        {
+        "title": "ZENTRALBLATT FUR VETERINARMEDIZIN",
+        "abbr": "ZBL VETERINARMEDIZIN"
+        },
+        {
+        "title": "ZENTRALBLATT FUR VETERINARMEDIZIN REIHE A-JOURNAL OF VETERINARY MEDICINE SERIES A-ANIMAL PHYSIOLOGY PATHOLOGY AND CLINICAL VETERINARY MEDICINE",
+        "abbr": "ZBL VET MED A"
+        },
+        {
+        "title": "ZENTRALBLATT FUR VETERINARMEDIZIN REIHE B-JOURNAL OF VETERINARY MEDICINE SERIES B-INFECTIOUS DISEASES IMMUNOLOGY FOOD HYGIENE VETERINARY PUBLIC HEALTH",
+        "abbr": "ZBL VET MED B"
+        },
+        {
+        "title": "ZENTRALBLATT FUR VETERINARMEDIZIN REIHE C-JOURNAL OF VETERINARY MEDICINE SERIES C-ANATOMIA HISTOLOGIA EMBRYOLOGIA",
+        "abbr": "ZBL VET MED C"
+        },
+        {
+        "title": "ZENTRALBLATT FUR VETERINARMEDIZIN RIEHE A",
+        "abbr": "ZENTRALB VET RIEHE A"
+        },
+        {
+        "title": "ZENTRALBLATT FUR VETERINARMEDIZIN RIEHE B",
+        "abbr": "ZENTRALB VET RIEHE B"
+        },
+        {
+        "title": "ZEOLITE CHEMISTRY AND CATALYSIS",
+        "abbr": "STUD SURF SCI CATAL"
+        },
+        {
+        "title": "ZEOLITE MICROPOROUS SOLIDS : SYNTHESIS, STRUCTURE, AND REACTIVITY",
+        "abbr": "NATO ADV SCI I C-MAT"
+        },
+        {
+        "title": "ZEOLITES",
+        "abbr": "ZEOLITES"
+        },
+        {
+        "title": "ZEOLITES AND MICROPOROUS CRYSTALS",
+        "abbr": "STUD SURF SCI CATAL"
+        },
+        {
+        "title": "ZEOLITES AND ORDERED MESOPOROUS MATERIALS: PROGRESS AND PROSPECTS",
+        "abbr": "STUD SURF SCI CATAL"
+        },
+        {
+        "title": "ZEOLITES AND RELATED MATERIALS: TRENDS, TARGETS AND CHALLENGES, PROCEEDINGS OF THE 4TH INTERNATIONAL FEZA CONFERENCE",
+        "abbr": "STUD SURF SCI CATAL"
+        },
+        {
+        "title": "ZEOLITES AND RELATED MICROPOROUS MATERIALS: STATE OF THE ART 1994",
+        "abbr": "STUD SURF SCI CATAL"
+        },
+        {
+        "title": "ZEOLITES: A REFINED TOOL FOR DESIGNING CATALYTIC SITES",
+        "abbr": "STUD SURF SCI CATAL"
+        },
+        {
+        "title": "ZERO-DIMENSIONAL COMMUTATIVE RINGS",
+        "abbr": "LECT NOTES PURE APPL"
+        },
+        {
+        "title": "ZERO-DIMENSIONAL SCHEMES",
+        "abbr": ""
+        },
+        {
+        "title": "ZESZYTY NAUKOWE WYDZIALU BUDOWNICTWAI I INZYNIERII SRODOWISKA",
+        "abbr": "ZESZ NAUK WYDZIALU B"
+        },
+        {
+        "title": "ZETA FUNCTIONS IN ALGEBRA AND GEOMETRY",
+        "abbr": "CONTEMP MATH"
+        },
+        {
+        "title": "ZETA FUNCTIONS OF GROUPS AND RINGS",
+        "abbr": "LECT NOTES MATH"
+        },
+        {
+        "title": "ZEW ECONOMIC STUDIES",
+        "abbr": "ZEW ECON STUDIES"
+        },
+        {
+        "title": "ZHURNAL ANALITICHESKOI KHIMII",
+        "abbr": "J ANAL CHEM-USSR+"
+        },
+        {
+        "title": "ZHURNAL EKSPERIMENTALNOI I TEORETICHESKOI FIZIKI",
+        "abbr": "ZH EKSP TEOR FIZ+"
+        },
+        {
+        "title": "ZHURNAL FIZICHESKOI KHIMII",
+        "abbr": "ZH FIZ KHIM+"
+        },
+        {
+        "title": "ZHURNAL MIKROBIOLOGII EPIDEMIOLOGII I IMMUNOBIOLOGII",
+        "abbr": "ZH MIKROB EPID IMMUN"
+        },
+        {
+        "title": "ZHURNAL NAUCHNOI I PRIKLADNOI FOTOGRAFII",
+        "abbr": "ZH NAUCH PRIKL FOTOG"
+        },
+        {
+        "title": "ZHURNAL NEORGANICHESKOI KHIMII",
+        "abbr": "ZH NEORG KHIM+"
+        },
+        {
+        "title": "ZHURNAL NEVROLOGII I PSIKHIATRII IMENI S S KORSAKOVA",
+        "abbr": "Z NEVROL PSIKHIATRII"
+        },
+        {
+        "title": "ZHURNAL NEVROLOGII I PSIKHIATRII IMENI S S KORSAKOVA",
+        "abbr": "ZH NEVROL PSIKHIATR"
+        },
+        {
+        "title": "ZHURNAL NEVROPATOLOGII I PSIKHIATRII IMENI S S KORSAKOVA",
+        "abbr": "ZH NEVROPATOL PSIKH"
+        },
+        {
+        "title": "ZHURNAL OBSHCHEI BIOLOGII",
+        "abbr": "ZH OBSHCH BIOL"
+        },
+        {
+        "title": "ZHURNAL OBSHCHEI KHIMII",
+        "abbr": "ZH OBSHCH KHIM+"
+        },
+        {
+        "title": "ZHURNAL ORGANICHESKOI KHIMII",
+        "abbr": "ZH ORG KHIM+"
+        },
+        {
+        "title": "ZHURNAL PRIKLADNOI KHIMII",
+        "abbr": "J APPL CHEM-USSR+"
+        },
+        {
+        "title": "ZHURNAL STRUKTURNOI KHIMII",
+        "abbr": "ZH STRUKT KHIM"
+        },
+        {
+        "title": "ZHURNAL TEKHNICHESKOI FIZIKI",
+        "abbr": "ZH TEKH FIZ+"
+        },
+        {
+        "title": "ZHURNAL VSESOYUZNOGO KHIMICHESKOGO OBSHCHESTVA IMENI D I MENDELEEVA",
+        "abbr": "ZH VSES KHIM OVA+"
+        },
+        {
+        "title": "ZHURNAL VYSSHEI NERVNOI DEYATELNOSTI IMENI I P PAVLOVA",
+        "abbr": "ZH VYSSH NERV DEYAT+"
+        },
+        {
+        "title": "ZICKLIN SCHOOL OF BUSINESS FINANCIAL MARKET SERIES",
+        "abbr": "ZI SCH BUS FIN MA"
+        },
+        {
+        "title": "ZIEGLER CATALYSTS",
+        "abbr": ""
+        },
+        {
+        "title": "ZIMBABWE JOURNAL OF AGRICULTURAL RESEARCH",
+        "abbr": "ZIMBABWE J AGR RES"
+        },
+        {
+        "title": "ZIMBABWE RHODESIA AGRICULTURAL JOURNAL",
+        "abbr": "ZIMBABWE RHOD AGR J"
+        },
+        {
+        "title": "ZINC AND DISEASES OF THE DIGESTIVE TRACT",
+        "abbr": "FALK SYMP"
+        },
+        {
+        "title": "ZINC AND LEAD PROCESSING",
+        "abbr": ""
+        },
+        {
+        "title": "ZINC COATED STEEL SHEET",
+        "abbr": "INT ZINC COATED SH"
+        },
+        {
+        "title": "ZINC IN SOILS AND PLANTS",
+        "abbr": "DEV PLANT SOIL SCI"
+        },
+        {
+        "title": "ZINC OXIDE MATERIALS AND DEVICES III",
+        "abbr": "P SOC PHOTO-OPT INS"
+        },
+        {
+        "title": "ZINC OXIDE MATERIALS AND DEVICES IV",
+        "abbr": "P SOC PHOTO-OPT INS"
+        },
+        {
+        "title": "ZINC-BASED STEEL COATING SYSTEMS : METALLURGY AND PERFORMANCE",
+        "abbr": ""
+        },
+        {
+        "title": "ZINC-BASED STEEL COATING SYSTEMS: PRODUCTION AND PERFORMANCE",
+        "abbr": ""
+        },
+        {
+        "title": "ZINC-FINGER PROTEINS IN ONCOGENESIS",
+        "abbr": "ANN NY ACAD SCI"
+        },
+        {
+        "title": "ZINTL IONS: PRINCIPLES AND RECENT DEVELOPMENTS",
+        "abbr": "STRUCT BOND"
+        },
+        {
+        "title": "ZINTL PHASES: PRINCIPLES AND RECENT DEVELOPMENTS",
+        "abbr": "STRUCT BOND"
+        },
+        {
+        "title": "ZION-A QUARTERLY FOR RESEARCH IN JEWISH HISTORY",
+        "abbr": "ZION-QUART RES JEWIS"
+        },
+        {
+        "title": "ZIRCON",
+        "abbr": "REV MINERAL GEOCHEM"
+        },
+        {
+        "title": "ZIRCONIUM IN THE NUCLEAR INDUSTRY",
+        "abbr": "AM SOC TEST MATER"
+        },
+        {
+        "title": "ZIRCONIUM IN THE NUCLEAR INDUSTRY : NINTH INTERNATIONAL SYMPOSIUM",
+        "abbr": "AM SOC TEST MATER"
+        },
+        {
+        "title": "ZIRCONIUM IN THE NUCLEAR INDUSTRY: 15TH INTERNATIONAL SYMPOSIUM",
+        "abbr": "AM SOC TEST MATER"
+        },
+        {
+        "title": "ZIRCONIUM IN THE NUCLEAR INDUSTRY: TENTH INTERNATIONAL SYMPOSIUM",
+        "abbr": "AM SOC TEST MATER"
+        },
+        {
+        "title": "ZIRCONIUM IN THE NUCLEAR INDUSTRY: THIRTEENTH INTERNATIONAL SYMPOSIUM",
+        "abbr": "AM SOC TEST MATER"
+        },
+        {
+        "title": "ZIRCONIUM IN THE NUCLEAR INDUSTRY: TWELFTH INTERNATIONAL SYMPOSIUM",
+        "abbr": "AM SOC TEST MATER"
+        },
+        {
+        "title": "ZIVA ANTIKA",
+        "abbr": "ZIVA ANTIKA"
+        },
+        {
+        "title": "ZIVOCISNA VYROBA",
+        "abbr": "ZIVOCISNA VYROBA"
+        },
+        {
+        "title": "ZIVOT UMJETNOSTI",
+        "abbr": "ZIV UMJET"
+        },
+        {
+        "title": "ZKG INTERNATIONAL",
+        "abbr": "ZKG INT"
+        },
+        {
+        "title": "ZOGRAF",
+        "abbr": "ZOGRAF"
+        },
+        {
+        "title": "ZOLA - LA BETE HUMAINE : TEXT AND COMMENTARY",
+        "abbr": ""
+        },
+        {
+        "title": "ZONA PELLUCIDA GLYCOPROTEINS AND IMMUNOCONTRACEPTION",
+        "abbr": "J REP FER S"
+        },
+        {
+        "title": "ZONES OF RELIGION",
+        "abbr": "ZONES RELIG"
+        },
+        {
+        "title": "ZOO BIOLOGY",
+        "abbr": "ZOO BIOL"
+        },
+        {
+        "title": "ZOOKEYS",
+        "abbr": "ZOOKEYS"
+        },
+        {
+        "title": "ZOOLOGIA",
+        "abbr": "ZOOLOGIA"
+        },
+        {
+        "title": "ZOOLOGIA",
+        "abbr": "ZOOLOGIA-CURITIBA"
+        },
+        {
+        "title": "ZOOLOGICA",
+        "abbr": "ZOOLOGICA-NEW YORK"
+        },
+        {
+        "title": "ZOOLOGICA AFRICANA",
+        "abbr": "ZOOL AFR"
+        },
+        {
+        "title": "ZOOLOGICA SCRIPTA",
+        "abbr": "ZOOL SCR"
+        },
+        {
+        "title": "ZOOLOGICA-NEW YORK",
+        "abbr": "ZOOLOGICA-N Y"
+        },
+        {
+        "title": "ZOOLOGICAL JOURNAL OF THE LINNEAN SOCIETY",
+        "abbr": "ZOOL J LINN SOC-LOND"
+        },
+        {
+        "title": "ZOOLOGICAL SCIENCE",
+        "abbr": "ZOOL SCI"
+        },
+        {
+        "title": "ZOOLOGICAL STUDIES",
+        "abbr": "ZOOL STUD"
+        },
+        {
+        "title": "ZOOLOGICHESKY ZHURNAL",
+        "abbr": "ZOOL ZH"
+        },
+        {
+        "title": "ZOOLOGICKE LISTY",
+        "abbr": "ZOOL LISTY"
+        },
+        {
+        "title": "ZOOLOGISCHE JAHRBUCHER-ABTEILUNG FUR ALLGEMEINE ZOOLOGIE UND PHYSIOLOGIE DER TIERE",
+        "abbr": "ZOOL JAHRB ALLG ZOOL"
+        },
+        {
+        "title": "ZOOLOGISCHER ANZEIGER",
+        "abbr": "ZOOL ANZ"
+        },
+        {
+        "title": "ZOOLOGISKA BIDRAG FRAN UPPSALA",
+        "abbr": "ZOOL BIDR UPPS"
+        },
+        {
+        "title": "ZOOLOGY",
+        "abbr": "ZOOLOGY"
+        },
+        {
+        "title": "ZOOLOGY IN EARLY MODERN CULTURE: INTERSECTIONS OF SCIENCE, THEOLOGY, PHILOLOGY, AND POLITICAL AND RELIGIOUS EDUCATION",
+        "abbr": "INTERSECTION"
+        },
+        {
+        "title": "ZOOLOGY IN THE MIDDLE EAST",
+        "abbr": "ZOOL MIDDLE EAST"
+        },
+        {
+        "title": "ZOOLOGY-ANALYSIS OF COMPLEX SYSTEMS",
+        "abbr": "ZOOL-ANAL COMPLEX SY"
+        },
+        {
+        "title": "ZOOM LENSES",
+        "abbr": "P SOC PHOTO-OPT INS"
+        },
+        {
+        "title": "ZOOM LENSES II",
+        "abbr": "P SOC PHOTO-OPT INS"
+        },
+        {
+        "title": "ZOOM LENSES III",
+        "abbr": "P SOC PHOTO-OPT INS"
+        },
+        {
+        "title": "ZOOM LENSES IV",
+        "abbr": "PROC SPIE"
+        },
+        {
+        "title": "ZOOM LENSES V",
+        "abbr": "PROC SPIE"
+        },
+        {
+        "title": "ZOOMORPHOLOGIE",
+        "abbr": "ZOOMORPHOLOGIE"
+        },
+        {
+        "title": "ZOOMORPHOLOGY",
+        "abbr": "ZOOMORPHOLOGY"
+        },
+        {
+        "title": "ZOON",
+        "abbr": "ZOON"
+        },
+        {
+        "title": "ZOONOSES AND PUBLIC HEALTH",
+        "abbr": "ZOONOSES PUBLIC HLTH"
+        },
+        {
+        "title": "ZOOSYSTEMA",
+        "abbr": "ZOOSYSTEMA"
+        },
+        {
+        "title": "ZOOSYSTEMATICS AND EVOLUTION",
+        "abbr": "ZOOSYST EVOL"
+        },
+        {
+        "title": "ZOOTAXA",
+        "abbr": "ZOOTAXA"
+        },
+        {
+        "title": "ZOOTECHNIA",
+        "abbr": "ZOOTECHNIA"
+        },
+        {
+        "title": "ZOOTECNICA E NUTRIZIONE ANIMALE",
+        "abbr": "ZOOTEC NUTR ANIM"
+        },
+        {
+        "title": "ZOPICLONE 1987-1992",
+        "abbr": ""
+        },
+        {
+        "title": "ZUCHTHYGIENE-REPRODUCTION IN DOMESTIC ANIMALS",
+        "abbr": "ZUCHTHYGIENE"
+        },
+        {
+        "title": "ZUCHTUNGSKUNDE",
+        "abbr": "ZUCHTUNGSKUNDE"
+        },
+        {
+        "title": "ZUCKER",
+        "abbr": "ZUCKER"
+        },
+        {
+        "title": "ZUCKERINDUSTRIE",
+        "abbr": "ZUCKERINDUSTRIE"
+        },
+        {
+        "title": "ZUM '98: THE Z FORMAL SPECIFICATION NOTATION",
+        "abbr": "LECT NOTES COMPUT SC"
+        },
+        {
+        "title": "ZWIERZETA LABORATORYJNE",
+        "abbr": "ZWIERZETA LAB"
+        },
+        {
+        "title": "ZYGON",
+        "abbr": "ZYGON"
+        },
+        {
+        "title": "ZYGOTE",
+        "abbr": "ZYGOTE"
+        },
+        {
+        "title": "ZYWNOSC-NAUKA TECHNOLOGIA JAKOSC",
+        "abbr": "ZYWN-NAUK TECHNOL JA"
+        },
+        {
+        "title": "Zababakhin Scientific Talks - 2005",
+        "abbr": "AIP CONF PROC"
+        },
+        {
+        "title": "Zeta Functions, Topology and Quantum Physics",
+        "abbr": "DEV MATH"
+        },
+        {
+        "title": "Zicklin School of Business Financial Markets Series",
+        "abbr": "ZI SCH BUS FIN MA"
+        },
+        {
+        "title": "Zinc Oxide - A Material for Micro- and Optoelectronic Applications",
+        "abbr": "NATO SCI SER II MATH"
+        },
+        {
+        "title": "Zinc Oxide Materials and Devices",
+        "abbr": "P SOC PHOTO-OPT INS"
+        },
+        {
+        "title": "Zinc Oxide Materials and Devices II",
+        "abbr": "P SOC PHOTO-OPT INS"
+        },
+        {
+        "title": "Zinc Oxide and Related Materials",
+        "abbr": "MATER RES SOC SYMP P"
+        },
+        {
+        "title": "Zirconium in the Nuclear Industry: 14th International Symposium",
+        "abbr": "AM SOC TEST MATER"
+        },
+        {
+        "title": "Zlin Proceedings in Humanities",
+        "abbr": "ZLIN PROC HUMAN"
+        },
+        {
+        "title": "Zoosymposia",
+        "abbr": "ZOOSYMPOSIA"
+        },
+        {
+        "title": "Zoosymposia Series",
+        "abbr": "ZOOSYMP SER"
+        }
+    ]
+}
