@@ -11,8 +11,11 @@ class App extends React.Component {
 
         this.state = {
             initials: ["0-9", "A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z"],
-            journals: {}
+            journals: {},
+            targetInitial: null
         };
+
+        this.updateTable = this.updateTable.bind(this);
     }
 
 
@@ -20,13 +23,29 @@ class App extends React.Component {
         fetch('/all_journals.json')
             .then(res => res.json())
             .then((journals) => {
-                this.setState({journals})
+                const targetInitial = "0-9";
+                this.setState({journals, targetInitial});
             })
             .catch("ERROR WHEN LOADING JSON");
     }
 
 
+    updateTable(initial) {
+        this.setState({targetInitial: initial});
+    }
+
+    getTargetJournals(initial) {
+        if (initial in this.state.journals) {
+            console.log("oioioioi");
+            return this.state.journals[initial];
+        }
+        else return [];
+    }
+
+
     render() {
+        const targetJournals = (this.state.targetInitial in this.state.journals) ? this.state.journals[this.state.targetInitial] : [];
+
         return (
             <main role="main">
                 <Container>
@@ -48,7 +67,10 @@ class App extends React.Component {
                             <ul className={"list-group list-group-horizontal"}>
                                 {
                                     Object.keys(this.state.journals).sort().map(initial =>
-                                        <li className="list-group-item" key={initial}><h6><a href={"#"}>{initial}</a></h6></li>
+                                        <li className="list-group-item" key={initial} ref={"letterLi"}
+                                            onClick={() => this.updateTable(initial)}>
+                                            <h6><a href={"javascript:void(0)"}>{initial}</a></h6>
+                                        </li>
                                     )
                                 }
                             </ul>
@@ -57,15 +79,27 @@ class App extends React.Component {
                             <Form.Control type="email" placeholder="Search by Title or Abbreviation" />
                         </div>
                     </div>
-                    <div className={"row"}>
+                    <div className={"row"} style={{marginTop: "10px"}}>
                         <div className={"col-12"}>
-                            <ul className="list-group">
-                                <li className="list-group-item">Cras justo odio</li>
-                                <li className="list-group-item">Dapibus ac facilisis in</li>
-                                <li className="list-group-item">Morbi leo risus</li>
-                                <li className="list-group-item">Porta ac consectetur ac</li>
-                                <li className="list-group-item">Vestibulum at eros</li>
-                            </ul>
+                            <table className="table">
+                                <thead>
+                                <tr>
+                                    <th scope="col">#</th>
+                                    <th scope="col">Journal/Conference's Title</th>
+                                    <th scope="col">Abbreviation</th>
+                                </tr>
+                                </thead>
+                                <tbody>
+                                {
+                                    targetJournals.map((journal, idx) =>
+                                    <tr>
+                                        <th scope="row">{idx}</th>
+                                        <td>{journal.title}</td>
+                                        <td>{journal.abbr}</td>
+                                    </tr>
+                                )}
+                                </tbody>
+                            </table>
                         </div>
                     </div>
                 </Container>

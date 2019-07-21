@@ -6,3 +6,7 @@
 .list-group-item h6 {
     margin-bottom: 0;
 }
+
+.table thead th {
+    border-top: 0;
+}
