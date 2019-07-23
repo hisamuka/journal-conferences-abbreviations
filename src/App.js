@@ -1,8 +1,10 @@
 import React from 'react';
+import { decode } from 'he';
 
 import "./style.css";
 import Container from "react-bootstrap/Container";
 import Form from 'react-bootstrap/Form';
+import Button from "react-bootstrap/Button";
 
 
 class App extends React.Component {
@@ -12,10 +14,13 @@ class App extends React.Component {
         this.state = {
             initials: ["0-9", "A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z"],
             journals: {},
-            targetInitial: null
+            targetInitial: null,
+            targetJournals: []
         };
 
         this.updateTable = this.updateTable.bind(this);
+        this.handleKeyDown = this.handleKeyDown.bind(this);
+        this.search = this.search.bind(this);
     }
 
 
@@ -31,21 +36,39 @@ class App extends React.Component {
 
 
     updateTable(initial) {
-        this.setState({targetInitial: initial});
+        this.refs.inputField.value = "";
+        const targetInitial = initial;
+        const targetJournals = this.state.journals[targetInitial];
+
+        this.setState({targetInitial, targetJournals});
     }
 
-    getTargetJournals(initial) {
-        if (initial in this.state.journals) {
-            console.log("oioioioi");
-            return this.state.journals[initial];
+    handleKeyDown(event) {
+        if (event.key === "Enter") {
+            this.search();
         }
-        else return [];
+    }
+
+    search() {
+        if (this.refs.inputField.value) {
+            let targetJournals = [];
+            const regex = new RegExp(`^.*${this.refs.inputField.value.toUpperCase()}.*$`);
+            console.log("====> ", this.refs.inputField.value.toUpperCase());
+
+            for (let initial in this.state.journals) {
+                this.state.journals[initial].forEach(journal => {
+                    if (regex.test(journal.title.toUpperCase()) || regex.test(journal.abbr.toUpperCase())) {
+                        targetJournals.push(journal);
+                    }
+                });
+            }
+
+            this.setState({targetJournals});
+        }
     }
 
 
     render() {
-        const targetJournals = (this.state.targetInitial in this.state.journals) ? this.state.journals[this.state.targetInitial] : [];
-
         return (
             <main role="main">
                 <Container>
@@ -66,17 +89,21 @@ class App extends React.Component {
                         <div className={"col-8 d-flex align-content-center flex-wrap"}>
                             <ul className={"list-group list-group-horizontal"}>
                                 {
-                                    Object.keys(this.state.journals).sort().map(initial =>
-                                        <li className="list-group-item" key={initial} ref={"letterLi"}
+                                    this.state.initials.map(initial =>
+                                        <li className={"list-group-item"} key={initial}
                                             onClick={() => this.updateTable(initial)}>
-                                            <h6><a href={"javascript:void(0)"}>{initial}</a></h6>
+                                            <Button variant="link">{initial}</Button>
                                         </li>
                                     )
                                 }
                             </ul>
                         </div>
-                        <div className={"col-4"}>
-                            <Form.Control type="email" placeholder="Search by Title or Abbreviation" />
+                        <div className={"col-3"}>
+                            <Form.Control type="email" placeholder="Search by Title or Abbreviation" ref={"inputField"}
+                                          onKeyDown={this.handleKeyDown} />
+                        </div>
+                        <div className={"col-1"}>
+                            <button type="button" className="btn btn-primary" onClick={this.search}>Search!</button>
                         </div>
                     </div>
                     <div className={"row"} style={{marginTop: "10px"}}>
@@ -91,10 +118,10 @@ class App extends React.Component {
                                 </thead>
                                 <tbody>
                                 {
-                                    targetJournals.map((journal, idx) =>
-                                    <tr>
+                                    this.state.targetJournals.map((journal, idx) =>
+                                    <tr key={idx}>
                                         <th scope="row">{idx}</th>
-                                        <td>{journal.title}</td>
+                                        <td>{decode(journal.title)}</td>
                                         <td>{journal.abbr}</td>
                                     </tr>
                                 )}
