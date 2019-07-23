@@ -78,7 +78,7 @@ class App extends React.Component {
                             <p>
                                 List of abbreviations for several journals and conferences. Use them to shorten references. <br/>
                                 This list was based on <a href="http://images.webofknowledge.com/images/help/WOS/0-9_abrvjt.html"
-                                                          rel="noopener noreferrer" target="_blank">this site/link</a> and (possibly) contains all of the cited works in Web of Science. <br/>
+                                                          rel="noopener noreferrer" target="_blank">this website/link</a> and (possibly) contains all of the cited works in Web of Science. <br/>
 
                                 Suggestion? Please contact us on <a href={"https://twitter.com/hisamuka"}>twitter</a> or <a href={"https://github.com/hisamuka/journal-conference-abbreviations"}>github</a>.
                             </p>
